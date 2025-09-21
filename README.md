@@ -115,21 +115,3 @@ For PartTimeEmployee, HourlyRate × HoursPerWeek × 4 is calculated.
 
 Departments: Basic 4 seeded departments (HR, Finance, IT, Sales).
 ----------------------------------------------------------------------------------
-
-📂 Project Structure
-EmployeeManagement.sln
-│
-├── EmployeeApp.Core
-│   ├── Models (Employee, FullTimeEmployee, PartTimeEmployee, Department)
-│   └── Interfaces (IEmployeeRepository)
-│
-├── EmployeeApp.Data
-│   └── Repositories (AdoEmployeeRepository.cs)
-│
-├── EmployeeApp.UI
-│   ├── Forms (MainForm, EmployeeForm)
-│   └── Program.cs
-│
-└── Scripts
-    └── EmployeeDB_Create.sql
-----------------------------------------------------------------------------------
