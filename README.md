@@ -39,9 +39,7 @@ Update the connection string with your SQL Server instance:
 
 Replace:
 
-DESKTOP-RU25KP9 & Uer ID , Password with your server name  ID & password(check in SSMS).
-
-sa and YourPassword with valid SQL Server login.
+DESKTOP-RU25KP9 & User ID , Password with your server name  ID & password(check in SSMS).
 
 Setup the database
 
@@ -133,3 +131,4 @@ EmployeeManagement.sln
 └── Scripts
     └── EmployeeDB_Create.sql
 ----------------------------------------------------------------------------------
+
